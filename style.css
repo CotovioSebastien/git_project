@@ -3,3 +3,8 @@ p
 	color: red; 
 	font-size: 35px;
 }
+h1
+{
+	text-decoration: underline;
+	text-decoration-color: red;
+}
